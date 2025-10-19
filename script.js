@@ -10,7 +10,7 @@ window.addEventListener('load', () => {
 
 
     const messages = [
-        "Chúc mấy chị, cô và bà nội ngày 20/10 vui vẻ 🌸",
+        "Chúc mấy bạn nữ ngày 20/10 vui vẻ 🌸",
         "Chúc những người phụ nữ tuyệt vời xung quanh mình có một ngày 20/10 thật trọn vẹn, xinh đẹp và hạnh phúc 💕",
         "Gửi lời yêu thương nhất đến tất cả những người phụ nữ đáng quý — chúc mọi người luôn được yêu và luôn mỉm cười 🌸",
         "20/10 - chúc phái đẹp luôn rực rỡ, luôn tự tin và được trân trọng như chính vẻ đẹp của mình 💐"
@@ -117,3 +117,4 @@ window.addEventListener('load', () => {
         }
     });
 });
+
